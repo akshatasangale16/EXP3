@@ -1,0 +1,26 @@
+Experiment No. : 3
+
+Title: Implementation of Commit, Modification on Branch Master, Forking, and GitHub Repository Link.
+
+Objective:
+To implement Commit, Modification on Branch Master, Forking, and GitHub Repository Link.
+
+This file is created as part of the Git experiment for learning branch management, merging, rebasing, and forking on GitHub.
+
+Steps included in this experiment:
+
+Cloning the remote repository.
+
+Creating and switching branches.
+
+Committing changes.
+
+Pushing branches to the remote repository.
+
+Merging and rebasing branches.
+
+Deleting branches.
+
+Undoing changes and modifying commits.
+
+Using Git stash to temporarily save changes.
